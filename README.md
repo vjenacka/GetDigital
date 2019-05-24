@@ -6,7 +6,7 @@
 <h4 align="center">A landing page for a company helping businesses get a better online presence.</h4>
 
 ## Live URL
-<strong>Live URL: </strong><a href="" target="_blank">Click Here</a>
+<strong>Live URL: </strong><a href="https://vjenacka.github.io/GetDigital/" target="_blank">Click Here</a>
 
 ## Key Features
 
