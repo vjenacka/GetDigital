@@ -6,7 +6,7 @@
 <h4 align="center">A landing page for a company helping businesses get a better online presence.</h4>
 
 ## Live URL
-<strong>Live URL: </strong><a href="https://estate-project-d9fb0.firebaseapp.com/" target="_blank">Click Here</a>
+<strong>Live URL: </strong><a href="" target="_blank">Click Here</a>
 
 ## Key Features
 
